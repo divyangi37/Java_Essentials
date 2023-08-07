@@ -1,0 +1,13 @@
+main class - public static void main(String[] args)
+
+Variable naming rules in JAVA
+    1. cannot contain spaces(payRate)
+    2. can contain numbers(hour1)
+    3. Cannot start with a number(1hour)
+    4. can contain some special characters(tax-rate,tax_rate)
+    5. cannot be reserved words(class)
+ The compiler will identify invalid variable names.
+
+ Shortcut for system.out.println() - sout + tab
+ for taking input from user - Scanner sc = new Scanner(System.in)
+
