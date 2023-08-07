@@ -23,6 +23,6 @@ public class GrossPayCalculator {
         scanner.close();
         double grossPay = hours * payRate;
         System.out.println("Gross pay = " + grossPay);
-
+        System.out.println("just to check changes!");
     }
 }
